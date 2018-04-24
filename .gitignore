@@ -6,6 +6,7 @@
 **/rebel.xml
 **/target
 **/output
+**/out
 **/private
 **/*.log
 **/~$*
