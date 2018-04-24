@@ -6,9 +6,9 @@
 **/rebel.xml
 **/target
 **/output
-**/.class
 **/private
 **/*.log
+**/*.class
 **/~$*
 **/*.iml
 **/.idea
